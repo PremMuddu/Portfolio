@@ -1,6 +1,6 @@
 # Portfolio
 
-Overview: Front end development 
+Overview: Front end development.
 A personal Portfolio which is a part of MIT Xpro Professional Certification in coding program.
 
 Core learning components:
